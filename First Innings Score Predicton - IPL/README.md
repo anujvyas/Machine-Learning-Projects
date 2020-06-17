@@ -38,7 +38,7 @@ _• Decision Tree Regression_<br/>
 _• Random Forest Regression_<br/>
 _• Adaptive Boosting (AdaBoost) Algorithm_<br/>
 
-# Future Scope:
+### Future Scope:
 _• Add columns in dataset of top batsmen and bowlers of all the teams._<br/>
 _• Add columns that consists of striker and non-striker's strike rates._<br/>
 _• Implement this problem statement using Artificial Neural Network (ANN)._<br/>

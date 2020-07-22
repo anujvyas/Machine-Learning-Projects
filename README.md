@@ -13,7 +13,7 @@
 
 **Classification:**<br/>
   _• K-Nearest Neighbours_<br/>
-  _• Support Vector Machine _<br/>
+  _• Support Vector Machine_<br/>
   _• Naive Bayes_<br/>
   _• Decision Tree_<br/>
   

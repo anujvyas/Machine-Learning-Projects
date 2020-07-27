@@ -1,6 +1,11 @@
 # First Innings Score Prediction - Indian Premier League (IPL)
 ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![NLTK](https://img.shields.io/badge/Library-sklearn-orange.svg)
 
+### Deployment
+• If you want to view the deployed model, then follow  the links mentioned below:<br/>
+Repository: _https://github.com/anujvyas/IPL-First-Innings-Score-Prediction-Deployment_<br/>
+Web App: _https://ipl-first-innings-score.herokuapp.com/_<br/>
+
 ### Problem statement:
 Build a model to predict the score (in terms of range) of any IPL match.
 
@@ -42,10 +47,5 @@ _• Adaptive Boosting (AdaBoost) Algorithm_<br/>
 _• Add columns in dataset of top batsmen and bowlers of all the teams._<br/>
 _• Add columns that consists of striker and non-striker's strike rates._<br/>
 _• Implement this problem statement using Artificial Neural Network (ANN)._<br/>
-
-### Deployment
-• If you want to view the deployed model, then go to following links mention below:<br/>
-Repository Link: _https://github.com/anujvyas/IPL-First-Innings-Score-Prediction-Deployment_<br/>
-Web App Link: _https://ipl-first-innings-score.herokuapp.com/_<br/>
 
 • Please do ⭐ the repository, if it helped you in anyway.

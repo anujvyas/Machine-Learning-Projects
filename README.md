@@ -24,6 +24,6 @@
   • _Random Forest_<br/>
   • _Adaptive Boosting (AdaBoost)_<br/>
   • _Extreme Gradient Boosting (XGBoost)_<br/>
-  • _Voting_<br/>
+  • _Voting (Hard/Soft)_<br/>
 
 **• Please do ⭐ the repository, if it helped you in anyway.**

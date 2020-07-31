@@ -6,21 +6,21 @@
 • Datasets are provided in each of the folders above, and also the solution to the problem statements have been provided.<br/>
 
 ### --- List of algorithms that are used in these projects ---
-**Regression:**<br/>
+**Regression:**
   - _Linear Regression_<br/>
   - _Logistic Regression_<br/>
   - _Lasso and Ridge (L1 & L2 Regularization)_<br/><br/>
 
-**Classification:**<br/>
+**Classification:**
   - _K-Nearest Neighbours_<br/>
   - _Support Vector Machine_<br/>
   - _Naive Bayes_<br/>
   - _Decision Tree_<br/><br/>
-  
-**Clustering:**<br/>
+ 
+**Clustering:**
   - _K-Means_<br/><br/>
   
-**Ensemble:**<br/>
+**Ensemble:**
   - _Random Forest_<br/>
   - _Adaptive Boosting (AdaBoost)_<br/>
   - _Extreme Gradient Boosting (XGBoost)_<br/>

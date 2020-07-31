@@ -6,24 +6,24 @@
 • Datasets are provided in each of the folders above, and also the solution to the problem statements have been provided.<br/>
 
 ### --- List of algorithms that are used in these projects ---
-**Regression:**
-  - _Linear Regression_<br/>
-  - _Logistic Regression_<br/>
-  - _Lasso and Ridge (L1 & L2 Regularization)_<br/><br/>
+**Regression:**<br/>
+  • _Linear Regression_<br/>
+  • _Logistic Regression_<br/>
+  • _Lasso and Ridge (L1 & L2 Regularization)_<br/>
 
-**Classification:**
-  - _K-Nearest Neighbours_<br/>
-  - _Support Vector Machine_<br/>
-  - _Naive Bayes_<br/>
-  - _Decision Tree_<br/><br/>
+**Classification:**<br/>
+  • _K-Nearest Neighbours_<br/>
+  • _Support Vector Machine_<br/>
+  • _Naive Bayes_<br/>
+  • _Decision Tree_<br/>
  
-**Clustering:**
-  - _K-Means_<br/><br/>
+**Clustering:**<br/>
+  • _K-Means_<br/>
   
-**Ensemble:**
-  - _Random Forest_<br/>
-  - _Adaptive Boosting (AdaBoost)_<br/>
-  - _Extreme Gradient Boosting (XGBoost)_<br/>
-  - _Voting_<br/><br/>
+**Ensemble:**<br/>
+  • _Random Forest_<br/>
+  • _Adaptive Boosting (AdaBoost)_<br/>
+  • _Extreme Gradient Boosting (XGBoost)_<br/>
+  • _Voting_<br/>
 
 **• Please do ⭐ the repository, if it helped you in anyway.**

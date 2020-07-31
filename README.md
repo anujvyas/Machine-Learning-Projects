@@ -5,25 +5,25 @@
 • This repository consists of all my Machine Learning Projects.<br/>
 • Datasets are provided in each of the folders above, and also the solution to the problem statements have been provided.<br/>
 
-### Algorithms used:
+### --- List of algorithms that are used in these projects ---
 **Regression:**<br/>
-  _• Linear Regression_<br/>
-  _• Logistic Regression_<br/>
-  _• Lasso and Ridge_<br/>
+  - _Linear Regression_<br/>
+  - _Logistic Regression_<br/>
+  - _Lasso and Ridge (L1 & L2 Regularization)_<br/>
 
 **Classification:**<br/>
-  _• K-Nearest Neighbours_<br/>
-  _• Support Vector Machine_<br/>
-  _• Naive Bayes_<br/>
-  _• Decision Tree_<br/>
+  - _K-Nearest Neighbours_<br/>
+  - _Support Vector Machine_<br/>
+  - _Naive Bayes_<br/>
+  - _Decision Tree_<br/>
   
 **Clustering:**<br/>
-  _• K-Means_<br/>
+  - _K-Means_<br/>
   
 **Ensemble:**<br/>
-  _• Random Forest_<br/>
-  _• Adaptive Boosting (AdaBoost)_<br/>
-  _• Extreme Gradient Boosting (XGBoost)_<br/>
-  _• Voting_<br/>
+  - _Random Forest_<br/>
+  - _Adaptive Boosting (AdaBoost)_<br/>
+  - _Extreme Gradient Boosting (XGBoost)_<br/>
+  - _Voting_<br/>
 
 **• Please do ⭐ the repository, if it helped you in anyway.**

@@ -8,7 +8,7 @@
 • It looks good, isn't it?
 
 ## Overview
-• This repository consists of all my Deep Learning Projects.<br/>
+• This repository consists of all my Machine Learning Projects.<br/>
 • Datasets are provided in each of the folders above, and also the solution to the problem statements have been provided.<br/>
 
 ## List of algorithms that are used in these projects --

@@ -14,6 +14,8 @@
 ## List of algorithms that are used in these projects --
 **Regression:**<br/>
   • _Linear Regression_<br/>
+  • _Multiple-Linear Regression_<br/>
+  • _Polynomial Regression_<br/>
   • _Lasso and Ridge Regression(L1 & L2 Regularization)_<br/>
   • _Elastic-Net Regression_
 

@@ -4,12 +4,12 @@
 ![ML](readme-resources/machine-learning.png)
 
 ## Why this repository?
-• The main purpose of making this repository is to keep all my Machine Learning project at one place, hence keeping my GitHub clean!<br/>
+• The main purpose of making this repository is to keep all my Machine Learning projects at one place, hence keeping my GitHub clean!<br/>
 • It looks good, isn't it?
 
 ## Overview
-• This repository consists of all my Machine Learning Projects.<br/>
-• Datasets are provided in each of the folders above, and also the solution to the problem statements have been provided.<br/>
+• This repository consists of all my Machine Learning projects.<br/>
+• Datasets are provided in each of the folders above, and the solution to the problem statements as well.
 
 ## List of algorithms that are used in these projects --
 **Regression:**<br/>

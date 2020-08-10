@@ -11,7 +11,7 @@
 • This repository consists of all my Machine Learning projects.<br/>
 • Datasets are provided in each of the folders above, and the solution to the problem statements as well.
 
-## List of algorithms that are used in these projects --
+## List of algorithms used
 **Regression:**<br/>
   • _Linear Regression_<br/>
   • _Multiple-Linear Regression_<br/>

@@ -1,4 +1,4 @@
-# Diabetes Prediction
+# Diabetes Classification
 
 ![DC](readme-resources/diabetes-banner.png)
 

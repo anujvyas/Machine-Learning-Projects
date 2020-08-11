@@ -1,7 +1,8 @@
 # Diabetes Prediction
 
-• If you want to view the deployed model, then go to following links mention below:<br />
-GitHub Repository: _https://github.com/anujvyas/Diabetes-Prediction-Deployment_<br />
-Web App: _https://predicting-diabetes.herokuapp.com/_
+![DC](readme-resources/diabetes-banner.png)
 
-• Please do ⭐ the repository, if it helped you in anyway.
+## Deployed Web App
+If you want to view the deployed model, then go to following links mention below: <br />
+• GitHub: _https://github.com/anujvyas/Diabetes-Prediction-Deployment_ <br />
+• Web App: _https://predicting-diabetes.herokuapp.com/_

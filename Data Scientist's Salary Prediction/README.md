@@ -1,7 +1,5 @@
-# Data Scientist's Salary Prediction
-![Dataset](https://img.shields.io/badge/Dataset-Ken_Jee-blue.svg) ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![library](https://img.shields.io/badge/Library-sklearn-orange.svg)
-
 ![DSSP](readme-resources/data-scientist-salary-banner.png)
+![Dataset](https://img.shields.io/badge/Dataset-Ken_Jee-blue.svg) ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![library](https://img.shields.io/badge/Library-sklearn-orange.svg)
 
 ## Project Overview
 • Created a model that estimates Data Sciencent's salary, that helps Data Scientist's negotiate their income when they get a job<br/>

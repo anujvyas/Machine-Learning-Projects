@@ -1,7 +1,5 @@
-# First Innings Score Prediction - Indian Premier League (IPL)
-![Dataset](https://img.shields.io/badge/Dataset-Shivam_Mitra-blue.svg) ![Python](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![sklearn](https://img.shields.io/badge/Library-sklearn-orange.svg)
-
 ![FISP](readme-resources/first-innings-banner.png)
+![Dataset](https://img.shields.io/badge/Dataset-Shivam_Mitra-blue.svg) ![Python](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![sklearn](https://img.shields.io/badge/Library-sklearn-orange.svg)
 
 ## Project Overview
 • Created a model that predicts the score (in terms of range) of IPL matches<br/>

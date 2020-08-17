@@ -4,7 +4,7 @@
 ## Project Overview
 • Created a model that estimates Data Sciencent's salary, that helps Data Scientist's negotiate their income when they get a job<br/>
 • Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark<br/>
-• Optimized Linear, Lasso, Ridge, and Random Forest regressors using GridsearchCV to reach the best model
+• Optimized Linear, Lasso, Ridge, and Random Forest regressors using GridSearchCV to reach the best model
 
 ## Resources Used
 • Packages: pandas, numpy, sklearn, matplotlib, seaborn.<br/>

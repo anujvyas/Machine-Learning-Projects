@@ -15,12 +15,12 @@
 **Regression:**<br/>
 • _Linear Regression_<br/>
 • _Multiple-Linear Regression_<br/>
+• _Logistic Regression_<br/>
 • _Polynomial Regression_<br/>
 • _Lasso and Ridge Regression (L1 & L2 Regularization)_<br/>
 • _Elastic-Net Regression_
 
 **Classification:**<br/>
-• _Logistic Regression_<br/>
 • _K-Nearest Neighbours_<br/>
 • _Support Vector Machine_<br/>
 • _Naive Bayes_<br/>

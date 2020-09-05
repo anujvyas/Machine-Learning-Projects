@@ -37,4 +37,4 @@ Metric: Negative Root Mean Squared Error (NRMSE)<br/>
 _**Note: Evaluation scores are obtained using cross validation.**_
 
 ## Model Prediction
-![Prediction](readme-resources/prediction.png)
+![Prediction](readme-resources/prediction.PNG)

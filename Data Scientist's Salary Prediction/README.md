@@ -2,32 +2,38 @@
 ![Dataset](https://img.shields.io/badge/Dataset-Ken_Jee-blue.svg) ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![library](https://img.shields.io/badge/Library-sklearn-orange.svg)
 
 ## Project Overview
-• Created a model that estimates Data Sciencent's salary, that helps Data Scientist's negotiate their income when they get a job<br/>
-• Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark<br/>
-• Optimized Linear, Lasso, Ridge, and Random Forest regressors using GridSearchCV to reach the best model
+• Created a machine learning model that estimates salary of data scientist based on the features like company_rating, company_founded, etc.<br/>
+• Engineered features from the text of each job description to quantify the value companies put on python, excel, tableau and sql
+
+## How will this project help?
+• This project helps data scientist/analyst to negotiate their income for an existing or a new job
 
 ## Resources Used
-• Packages: pandas, numpy, sklearn, matplotlib, seaborn.<br/>
+• Packages: **pandas, numpy, sklearn, matplotlib, seaborn.**<br/>
 • Dataset by **Ken Jee**: https://github.com/PlayingNumbers/ds_salary_proj
 
-## Data Cleaning
-
-## Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA) and Data Cleaning
+• Removed unwanted columns: 'Unnamed: 0'<br/>
+• Plotting bargraphs and countplots for numerical and categorical features respectively for EDA<br/>
+• Numerical Features (Rating, Founded): Replaced NaN or -1 values with mean or meadian based on their distribution<br/>
+• Categorical Features: Replaced NaN or -1 values with 'Other'/'Unknown' category<br/>
+• Removed unwanted alphabet/special characters from Salary feature<br/>
+• Converted the Salary column into one scale i.e from (per hour, per annum, employer provided salary) to (per annum)
 
 ## Feature Engineering
-• Transformed the categorical variables into dummy variables<br/>
-• Split the data into train and tests sets with a test size of 20%
+• **Creating new features** from existing features e.g. **job_in_headquaters from (job_location, headquarters)**, etc.<br/>
+• Trimming columns i.e. **Trimming features having more than 10 categories to reduce the dimensionality**<br/>
+• Handling ordinal and nominal categorical features<br/>
+• Feature Selection using **information gain (mutual_info_regression) and correlation matrix**<br/>
+• Feature Scaling using **StandardScalar**
 
-## Model Building
-Algorithms used for this project are as follows:<br/>
-• Multiple Linear Regression<br/>
-• Lasso Regression (L1 Regularization)<br/>
-• Ridge Regression (L2 Regularization)<br/>
-• Random Forest
+## Model Building and Evaluation
+Metric: Negative Root Mean Squared Error (NRMSE)<br/>
+• Multiple Linear Regression: -27.523<br/>
+• Lasso Regression: -27.993<br/>
+• **Random Forest: -17.637**<br/>
+• Gradient Boosting: -24.429<br/>
+• Voting (Random Forest + Gradient Boosting): -19.136<br/>
+_**NOTE: Evaluation scores are obtained using cross validation.**_
 
-## Model Evaluation
-I have used Root Mean Squared Error (RMSE) as the evaluation metric, and here are the scores:<br/>
-• Multiple Linear Regression -  <br/>
-• Lasso Regression (L1 Regularization) - <br/>
-• Ridge Regression (L2 Regularization) - <br/>
-• Random Forest - 
+## Model Prediction

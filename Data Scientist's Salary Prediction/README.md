@@ -2,7 +2,7 @@
 ![Dataset](https://img.shields.io/badge/Dataset-Ken_Jee-blue.svg) ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![library](https://img.shields.io/badge/Library-sklearn-orange.svg)
 
 ## Project Overview
-• Created a machine learning model that **estimates salary of data scientist based on the features like company_rating, company_founded, etc.**<br/>
+• Created a machine learning model that **estimates salary of data scientist based on the features like rating, company_founded, etc.**<br/>
 • Engineered features from the text of each job description to quantify the value companies put on python, excel, tableau and sql
 
 ## How will this project help?

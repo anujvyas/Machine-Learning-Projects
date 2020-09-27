@@ -6,7 +6,7 @@
 • Optimized Multiple-Linear, Decision Tree, Random Forest, and AdaBoost regression models using GridsearchCV
 
 ## How will this project help?
-• This project is for the fantasy cricket fans out there, helping them to earn extra points for Dream11 IPL 2020
+• This project is for the fantasy cricket fans out there, helping them to earn extra fantasy points for Dream11 IPL 2020
 
 ## Resources Used
 • Packages: pandas, numpy, sklearn, matplotlib, seaborn<br/>
@@ -17,7 +17,7 @@
 • **Keeping only consistent teams**<br/>
 ![ct](readme-resources/consistent_teams.PNG)<br/>
 • **Removing the first 5 overs data in every match**<br/>
-• **Converting the column 'date' from string into datetime object**
+• **Converting the column 'date' from string into datetime object**<br/>
 • **Handling categorical features**
 
 ## Model Building and Evaluation

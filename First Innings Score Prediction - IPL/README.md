@@ -3,34 +3,32 @@
 
 ## Project Overview
 • Created a model that predicts the score (in terms of range) of IPL matches<br/>
-• Engineered features .... <br/>
-• Optimized Linear, Decision Tree, Random Forest, and AdaBoost regressors using GridsearchCV to reach the best model
+• Optimized Multiple-Linear, Decision Tree, Random Forest, and AdaBoost regression models using GridsearchCV
+
+## How will this project help?
+• This project is for the fantasy cricket fans out there, helping them to earn extra points for Dream11 IPL 2020
 
 ## Resources Used
 • Packages: pandas, numpy, sklearn, matplotlib, seaborn<br/>
 • Dataset by **Shivam Mitra**: https://github.com/codophobia/CricketScorePredictor
 
-## Data Cleaning
+## Data Cleaning and Preprocessing
+• **Removing unwanted columns**<br/>
+• **Keeping only consistent teams**<br/>
+![ct](readme-resources/consistent_teams.PNG)<br/>
+• **Removing the first 5 overs data in every match**<br/>
+• **Converting the column 'date' from string into datetime object**
+• **Handling categorical features**
 
-## Exploratory Data Analysis (EDA)
+## Model Building and Evaluation
+Evaluation metric: Root Mean Squared Error (RMSE)<br/>
+• Multiple Linear Regression - 15.843 <br/>
+• Decision Tree - 23.044<br/>
+• Random Forest - 18.171<br/>
+• **Adaptive Boosting (AdaBoost) - 15.798**
 
-## Feature Engineering
-• Transformed the categorical variables into dummy variables <br/>
-• Split the data into train and tests sets with a test size of 20%
-
-## Model Building
-Algorithms used for this project are as follows:<br/>
-• Multiple Linear Regression <br/>
-• Decision Tree <br/>
-• Random Forest <br/>
-• Adaptive Boosting (AdaBoost)
-
-## Model Evaluation
-I have used Root Mean Squared Error (RMSE) as the evaluation metric, and here are the scores:<br/>
-• Multiple Linear Regression - <br/>
-• Decision Tree - <br/>
-• Random Forest - <br/>
-• Adaptive Boosting (AdaBoost) - 
+## Model Prediction
+![pred](readme-resources/prediction.PNG)<br/>
 
 ## Future Scope
 • Add columns in dataset of top batsmen and bowlers of all the teams.<br/>
